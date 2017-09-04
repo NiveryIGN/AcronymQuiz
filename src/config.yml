@@ -1,0 +1,6 @@
+#This will be the time between quizzes in seconds, 1800 is 30 minutes
+quizcooldown: 1800
+#This is the time before a quiz automatically ends ian seconds, 120 is 2 minutes
+timeactive: 120
+#Amount of money given on win
+amountwon: 1000

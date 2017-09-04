@@ -1,0 +1,10 @@
+name: AcronymQuiz
+version: 1.0
+main: me.jupdyke01.AcronymQuiz.Main
+author: Jupdyke01
+
+
+commands:
+  aquiz:
+    description: This main command for acronym quizzes
+    usage: /quiz
